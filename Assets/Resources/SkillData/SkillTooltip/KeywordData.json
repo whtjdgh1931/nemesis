@@ -1,0 +1,130 @@
+[
+ {
+   "키워드": "기본공격",
+   "영문키워드": "Normal Attack",
+   "PC설명": "마우스 왼쪽 클릭을 통해 발동할 수 있다. 현재 착용하고 있는 장비에 따라 다르다.",
+   "영문PC설명": "Activate with left mouse click. Effect depends on equipped gear.",
+   "모바일설명": "공격조이스틱을 통해 발동한다. 현재 착용하고 있는 장비에 따라 달라진다.",
+   "영문모바일설명": "Activate via the attack joystick. Effect depends on equipped gear"
+ },
+ {
+   "키워드": "특수공격",
+   "영문키워드": "Special Attack",
+   "PC설명": "키보드 Q키를 통해 발동할 수 있다. 현재 착용하고 있는 장비에 따라 다르다.",
+   "영문PC설명": "Activate with Q key. Effect depends on equipped gear.",
+   "모바일설명": "특수공격버튼을 통해 발동한다. 현재 착용하고 있는 장비에 따라 달라진다.",
+   "영문모바일설명": "\tActivate via the Special attack button. Effect depends on equipped gear."
+ },
+ {
+   "키워드": "유탄",
+   "영문키워드": "Grenades",
+   "PC설명": "마우스 오른쪽 클릭을 통해 발동할 수 있다. 10초에 한 번 충전되는 범위공격이다.",
+   "영문PC설명": "Activate with right mouse click. Area attack recharges every 10 seconds.",
+   "모바일설명": "유탄버튼을 통해 발동한다. 10초에 한 번 충전되는 범위공격이다.",
+   "영문모바일설명": "Activate via the Grenade button. Area attack that recharges every 10 seconds."
+ },
+ {
+   "키워드": "대쉬",
+   "영문키워드": "Dash",
+   "PC설명": "스페이스키를 눌러 발동할 수 있다. 대쉬 중 무적시간이 있다.",
+   "영문PC설명": "Activate with Space key. Grants invulnerability during dash.",
+   "모바일설명": "대쉬버튼을 통해 발동한다. 대쉬 중 무적시간이 있다.",
+   "영문모바일설명": "Activate via the Dash button. Grants invulnerability during dash."
+ },
+ {
+   "키워드": "반사",
+   "영문키워드": "Reflection",
+   "PC설명": "지속시간 동안 투사체에 피해를 입지 않고 자신의 탄환으로 만들어 반대방향으로 발사한다.",
+   "영문PC설명": "While active incoming projectiles cause no damage and are reflected as your own shots.",
+   "모바일설명": "지속시간 동안 투사체에 피해를 입지 않고 자신의 탄환으로 만들어 반대방향으로 발사한다.",
+   "영문모바일설명": "While active incoming projectiles cause no damage and are reflected as your own shots."
+ },
+ {
+   "키워드": "끌어당김",
+   "영문키워드": "Pull",
+   "PC설명": "범위의 중심 방향으로 적을 끌어들인다.",
+   "영문PC설명": "Attract enemies to the center of the effect zone.",
+   "모바일설명": "범위의 중심 방향으로 적을 끌어들인다.",
+   "영문모바일설명": "Attract enemies to the center of the effect zone."
+ },
+ {
+   "키워드": "독",
+   "영문키워드": "Poison",
+   "PC설명": "대상에게 지속적으로 피해를 준다.",
+   "영문PC설명": "Inflicts damage over time on the target",
+   "모바일설명": "대상에게 지속적으로 피해를 준다.",
+   "영문모바일설명": "Inflicts damage over time on the target"
+ },
+ {
+   "키워드": "무적",
+   "영문키워드": "Invulnerability",
+   "PC설명": "지속시간동안 피해를 입지 않는다.",
+   "영문PC설명": "Become immune to damage during the duration.",
+   "모바일설명": "지속시간동안 피해를 입지 않는다.",
+   "영문모바일설명": "Become immune to damage during the duration."
+ },
+ {
+   "키워드": "약화",
+   "영문키워드": "Weaken",
+   "PC설명": "대상의 피해량을 30% 낮춘다. (보스에게는 10%만 적용한다.)",
+   "영문PC설명": "Reduce target’s damage by 30 percent. Only 10 percent for bosses.",
+   "모바일설명": "대상의 피해량을 30% 낮춘다. (보스에게는 10%만 적용한다.)",
+   "영문모바일설명": "Reduce target’s damage by 30 percent. Only 10 percent for bosses."
+ },
+ {
+   "키워드": "둔화",
+   "영문키워드": "Slow",
+   "PC설명": "대상의 이동속도를 감소시킨다.",
+   "영문PC설명": "Decrease target’s movement speed.",
+   "모바일설명": "대상의 이동속도를 감소시킨다.",
+   "영문모바일설명": "Decrease target’s movement speed."
+ },
+ {
+   "키워드": "혼란",
+   "영문키워드": "Confusion",
+   "PC설명": "대상은 지속시간 동안 아군을 공격한다.",
+   "영문PC설명": "Forces the target to attack allies while active.",
+   "모바일설명": "대상은 지속시간 동안 아군을 공격한다.",
+   "영문모바일설명": "Forces the target to attack allies while active."
+ },
+ {
+   "키워드": "기절",
+   "영문키워드": "Stun",
+   "PC설명": "지속시간 동안 아무런 행동을 하지 못한다.",
+   "영문PC설명": "Prevents all actions for the duration.",
+   "모바일설명": "지속시간 동안 아무런 행동을 하지 못한다.",
+   "영문모바일설명": "Prevents all actions for the duration."
+ },
+ {
+   "키워드": "화상",
+   "영문키워드": "Burn",
+   "PC설명": "다음 한 번의 데미지에 +100%의 추가데미지를 적용한다.",
+   "영문PC설명": "Apply +100 percent extra damage to the next hit.",
+   "모바일설명": "다음 한 번의 데미지에 +100%의 추가데미지를 적용한다.",
+   "영문모바일설명": "Apply +100 percent extra damage to the next hit."
+ },
+ {
+   "키워드": "넉백",
+   "영문키워드": "Knockback",
+   "PC설명": "지정된 거리만큼 대상을 반대 방향으로 밀어낸다.",
+   "영문PC설명": "Push the target backward by a set distance.",
+   "모바일설명": "지정된 거리만큼 대상을 반대 방향으로 밀어낸다.",
+   "영문모바일설명": "Push the target backward by a set distance."
+ },
+ {
+   "키워드": "충돌",
+   "영문키워드": "Collision",
+   "PC설명": "넉백 상태충 벽이나 기둥 등에 부딪힐 때, 대량의 데미지를 입는다.",
+   "영문PC설명": "While knockback, colliding with walls or pillars causes heavy damage.",
+   "모바일설명": "넉백 상태충 벽이나 기둥 등에 부딪힐 때, 대량의 데미지를 입는다.",
+   "영문모바일설명": "While knockback, colliding with walls or pillars causes heavy damage."
+ },
+ {
+   "키워드": "속박",
+   "영문키워드": "Bind",
+   "PC설명": "지속시간동안 움직임을 봉쇄한다.",
+   "영문PC설명": "Prevents movement while active.",
+   "모바일설명": "지속시간동안 움직임을 봉쇄한다.",
+   "영문모바일설명": "Prevents movement while active."
+ }
+]
