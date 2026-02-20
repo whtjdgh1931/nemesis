@@ -14,7 +14,7 @@ Cyberpunk Roguelike Hack & Slash
 - 담당 파트: Skill System / Player Stat System / Server
 
 🎥 Gameplay Video  
-👉 [(유튜브 링크 삽입)](https://youtu.be/AbBBSkmhfGs?si=shfaVm-Ta9q2r0yD)
+👉 [(소개 영상)](https://youtu.be/AbBBSkmhfGs?si=shfaVm-Ta9q2r0yD)
 
 ---
 
