@@ -1,0 +1,363 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: InteractionViewTable_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 02a7e78aa265c8140a0d0cc5b0c6f8a9, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1
+    m_Localized: Start Run.
+    m_Metadata:
+      m_Items:
+      - rid: 5530781212759556123
+  - m_Id: 11
+    m_Localized: Ready to begin combat?
+    m_Metadata:
+      m_Items:
+      - rid: 5530781212759556124
+  - m_Id: 2
+    m_Localized: Normal Battle Room
+    m_Metadata:
+      m_Items:
+      - rid: 5530781212759556125
+  - m_Id: 12
+    m_Localized: Fight battles and earn common rewards.
+    m_Metadata:
+      m_Items:
+      - rid: 5530781212759556126
+  - m_Id: 3
+    m_Localized: Laboratory
+    m_Metadata:
+      m_Items:
+      - rid: 5530781212759556127
+  - m_Id: 13
+    m_Localized: Mysterious techniques await you.
+    m_Metadata:
+      m_Items:
+      - rid: 5530781212759556128
+  - m_Id: 4
+    m_Localized: Colosseum
+    m_Metadata:
+      m_Items:
+      - rid: 5530781212759556129
+  - m_Id: 14
+    m_Localized: Fight strong enemies to earn greater rewards.
+    m_Metadata:
+      m_Items:
+      - rid: 5530781212759556130
+  - m_Id: 5
+    m_Localized: Shop
+    m_Metadata:
+      m_Items:
+      - rid: 5530781212759556131
+  - m_Id: 15
+    m_Localized: Spend credits to purchase gear!
+    m_Metadata:
+      m_Items:
+      - rid: 5530781212759556132
+  - m_Id: 6
+    m_Localized: Boss Room
+    m_Metadata:
+      m_Items:
+      - rid: 5530781212759556133
+  - m_Id: 16
+    m_Localized: "You encounter the floor boss\u2026"
+    m_Metadata:
+      m_Items:
+      - rid: 5530781212759556134
+  - m_Id: 21
+    m_Localized: Credits
+    m_Metadata:
+      m_Items:
+      - rid: 5530781212759556355
+  - m_Id: 22
+    m_Localized: Can be exchanged for items at the shop.
+    m_Metadata:
+      m_Items:
+      - rid: 5530781212759556356
+  - m_Id: 23
+    m_Localized: Chrome
+    m_Metadata:
+      m_Items:
+      - rid: 5530781212759556357
+  - m_Id: 24
+    m_Localized: Metal shards for permanently enhancing gear.
+    m_Metadata:
+      m_Items:
+      - rid: 5530781212759556358
+  - m_Id: 25
+    m_Localized: First Aid Kit
+    m_Metadata:
+      m_Items:
+      - rid: 5530781212759556359
+  - m_Id: 26
+    m_Localized: Restores 50 HP when picked up.
+    m_Metadata:
+      m_Items:
+      - rid: 5530781212759556360
+  - m_Id: 27
+    m_Localized: Vivremotion Tech Pack
+    m_Metadata:
+      m_Items:
+      - rid: 5530781212759556361
+  - m_Id: 28
+    m_Localized: Gain one Vivremotion's ability.
+    m_Metadata:
+      m_Items:
+      - rid: 5530781212759556362
+  - m_Id: 29
+    m_Localized: Pyroheart Tech Pack
+    m_Metadata:
+      m_Items:
+      - rid: 5530781212759556363
+  - m_Id: 30
+    m_Localized: Gain one PyroHeart's ability.
+    m_Metadata:
+      m_Items:
+      - rid: 5530781212759556364
+  - m_Id: 31
+    m_Localized: G.E.A.R. Technology Pack
+    m_Metadata:
+      m_Items:
+      - rid: 5530781212759556365
+  - m_Id: 32
+    m_Localized: Gain one G.E.A.R.'s ability.
+    m_Metadata:
+      m_Items:
+      - rid: 5530781212759556366
+  - m_Id: 33
+    m_Localized: GridForge Tech Pack
+    m_Metadata:
+      m_Items:
+      - rid: 5530781212759556367
+  - m_Id: 34
+    m_Localized: Gain one GridForge's ability.
+    m_Metadata:
+      m_Items:
+      - rid: 5530781212759556368
+  - m_Id: 35
+    m_Localized: LUXPharma Tech Pack
+    m_Metadata:
+      m_Items:
+      - rid: 5530781212759556369
+  - m_Id: 36
+    m_Localized: "Gain one LUXPharma\u2019s ability."
+    m_Metadata:
+      m_Items:
+      - rid: 5530781212759556370
+  - m_Id: 37
+    m_Localized: Upgrade Pack
+    m_Metadata:
+      m_Items:
+      - rid: 5530781212759556371
+  - m_Id: 38
+    m_Localized: Use to enhance the power of obtained techniques.
+    m_Metadata:
+      m_Items:
+      - rid: 5530781212759556372
+  - m_Id: 39
+    m_Localized: Mutant Essence Orb
+    m_Metadata:
+      m_Items:
+      - rid: 5530781212759556373
+  - m_Id: 40
+    m_Localized: "Take in something that will corrupt you\u2026"
+    m_Metadata:
+      m_Items:
+      - rid: 5530781212759556374
+  - m_Id: 41
+    m_Localized: Reinforce
+    m_Metadata:
+      m_Items:
+      - rid: 5530781212759556393
+  - m_Id: 42
+    m_Localized: Record
+    m_Metadata:
+      m_Items:
+      - rid: 5530781212759556394
+  - m_Id: 43
+    m_Localized: Applies reinforcement to your combat equipment.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44
+    m_Localized: Records your honor.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1069601610416128
+    m_Localized: Blade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1069693222404096
+    m_Localized: Equip Blade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1069810105073664
+    m_Localized: Rifle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1069857056112640
+    m_Localized: Equip Rifle
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 5530781212759556123
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Short label shown on map/room list. Keep under 20 characters.
+          No trailing punctuation.
+    - rid: 5530781212759556124
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Shown in room details; give a brief directive or tip. Keep
+          within ~120 chars. Use imperative tone.
+    - rid: 5530781212759556125
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Short label for a normal encounter room. Keep under 20 characters.
+    - rid: 5530781212759556126
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Used in room info; short objective statement. Keep concise
+          and imperative.
+    - rid: 5530781212759556127
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Short label for laboratory rooms. Keep under 20 characters.
+    - rid: 5530781212759556128
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Shown in room details; mention hazards/special mechanics.
+          Keep concise.
+    - rid: 5530781212759556129
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Short label for arena/colosseum. Keep under 20 characters.
+    - rid: 5530781212759556130
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Used in room details; describe challenge/reward briefly.
+    - rid: 5530781212759556131
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Single-word label for shop; prefer short form for UI placement.
+    - rid: 5530781212759556132
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Shown in room details; briefly explain purchase/exchange mechanics.
+          Keep concise.
+    - rid: 5530781212759556133
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Short label for boss encounter rooms. Keep under 20 characters
+          and clear.
+    - rid: 5530781212759556134
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Shown in room details; warn of difficulty and advise preparation.
+          Keep concise and imperative.
+    - rid: 5530781212759556355
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Currency title; short label for UI.
+    - rid: 5530781212759556356
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Briefly explain purpose and usage of credits. Keep within
+          ~120 chars.
+    - rid: 5530781212759556357
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Resource name; short label for UI.
+    - rid: 5530781212759556358
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Describe use briefly; keep within ~120 chars.
+    - rid: 5530781212759556359
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Short consumable item name for UI.
+    - rid: 5530781212759556360
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Summarize effect; avoid embedding dynamic numbers unless documented.
+    - rid: 5530781212759556361
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Short label indicating tech pack and provider company.
+    - rid: 5530781212759556362
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Clarify it's a selectable tech pack; keep concise.
+    - rid: 5530781212759556363
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Short label for company-specific tech pack.
+    - rid: 5530781212759556364
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Keep concise and informative.
+    - rid: 5530781212759556365
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Short UI label for tech pack.
+    - rid: 5530781212759556366
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Keep concise; mention selectable mechanic.
+    - rid: 5530781212759556367
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Short label; keep under 20 chars.
+    - rid: 5530781212759556368
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Concise description of selectable reward.
+    - rid: 5530781212759556369
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Short label for company tech pack.
+    - rid: 5530781212759556370
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Keep concise and consistent across packs.
+    - rid: 5530781212759556371
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Short label indicating upgrade item.
+    - rid: 5530781212759556372
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Describe upgrade purpose briefly; avoid embedding exact numbers.
+    - rid: 5530781212759556373
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Short label for mutant-themed reward.
+    - rid: 5530781212759556374
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Clarify contents and randomness; keep concise.
+    - rid: 5530781212759556393
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Short label for reinforce/upgrade UI or reward. Keep concise
+          (<=15 chars).
+    - rid: 5530781212759556394
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Short label for record/log screens (play history, achievements).
+          Keep under ~20 chars.

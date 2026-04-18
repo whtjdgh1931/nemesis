@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: TutorialTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: TutorialTable
+  m_TableCollectionNameGuidString: 8a18dd2b89ed9a041b76e7b0a1fce022
+  m_Entries:
+  - m_Id: 61
+    m_Key: _tutorial_NormalAttack_PC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 62
+    m_Key: _tutorial_NormalAttack_Mobile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63
+    m_Key: _tutorial_GrenadeAttack_PC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64
+    m_Key: _tutorial_GrenadeAttack_Mobile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65
+    m_Key: _tutorial_SpecialAttack_PC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 66
+    m_Key: _tutorial_SpecialAttack_Mobile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 67
+    m_Key: _tutorial_Dash_PC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68
+    m_Key: _tutorial_Dash_Mobile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 69
+    m_Key: _tutorial_Interact_PC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70
+    m_Key: _tutorial_Interact_Mobile
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 5530781214052974858
+  references:
+    version: 2
+    RefIds:
+    - rid: 5530781214052974858
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1762758437819

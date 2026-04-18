@@ -1,0 +1,391 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: InteractionViewTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: InteractionViewTable
+  m_TableCollectionNameGuidString: 02a7e78aa265c8140a0d0cc5b0c6f8a9
+  m_Entries:
+  - m_Id: 1
+    m_Key: _roomTitle_Start
+    m_Metadata:
+      m_Items:
+      - rid: 5530781212759556111
+  - m_Id: 11
+    m_Key: _roomDescription_Start
+    m_Metadata:
+      m_Items:
+      - rid: 5530781212759556112
+  - m_Id: 2
+    m_Key: _roomTitle_Normal
+    m_Metadata:
+      m_Items:
+      - rid: 5530781212759556113
+  - m_Id: 12
+    m_Key: _roomDescription_Normal
+    m_Metadata:
+      m_Items:
+      - rid: 5530781212759556114
+  - m_Id: 3
+    m_Key: _roomTitle_Lab
+    m_Metadata:
+      m_Items:
+      - rid: 5530781212759556115
+  - m_Id: 13
+    m_Key: _roomDescription_Lab
+    m_Metadata:
+      m_Items:
+      - rid: 5530781212759556116
+  - m_Id: 4
+    m_Key: _roomTitle_Colosseum
+    m_Metadata:
+      m_Items:
+      - rid: 5530781212759556117
+  - m_Id: 14
+    m_Key: _roomDescription_Colosseum
+    m_Metadata:
+      m_Items:
+      - rid: 5530781212759556118
+  - m_Id: 5
+    m_Key: _roomTitle_Shop
+    m_Metadata:
+      m_Items:
+      - rid: 5530781212759556119
+  - m_Id: 15
+    m_Key: _roomDescription_Shop
+    m_Metadata:
+      m_Items:
+      - rid: 5530781212759556120
+  - m_Id: 6
+    m_Key: _roomTitle_Boss
+    m_Metadata:
+      m_Items:
+      - rid: 5530781212759556121
+  - m_Id: 16
+    m_Key: _roomDescription_Boss
+    m_Metadata:
+      m_Items:
+      - rid: 5530781212759556122
+  - m_Id: 21
+    m_Key: _rewardTitle_Credit
+    m_Metadata:
+      m_Items:
+      - rid: 5530781212759556335
+  - m_Id: 22
+    m_Key: _rewardDescription_Credit
+    m_Metadata:
+      m_Items:
+      - rid: 5530781212759556336
+  - m_Id: 23
+    m_Key: _rewardTitle_Chrome
+    m_Metadata:
+      m_Items:
+      - rid: 5530781212759556337
+  - m_Id: 24
+    m_Key: _rewardDescription_Chrome
+    m_Metadata:
+      m_Items:
+      - rid: 5530781212759556338
+  - m_Id: 25
+    m_Key: _rewardTitle_HealPack
+    m_Metadata:
+      m_Items:
+      - rid: 5530781212759556339
+  - m_Id: 26
+    m_Key: _rewardDescription_HealPack
+    m_Metadata:
+      m_Items:
+      - rid: 5530781212759556340
+  - m_Id: 27
+    m_Key: _rewardTitle_TechSelectPack_Company1
+    m_Metadata:
+      m_Items:
+      - rid: 5530781212759556341
+  - m_Id: 28
+    m_Key: _rewardDescription_TechSelectPack_Company1
+    m_Metadata:
+      m_Items:
+      - rid: 5530781212759556342
+  - m_Id: 29
+    m_Key: _rewardTitle_TechSelectPack_Company2
+    m_Metadata:
+      m_Items:
+      - rid: 5530781212759556343
+  - m_Id: 30
+    m_Key: _rewardDescription_TechSelectPack_Company2
+    m_Metadata:
+      m_Items:
+      - rid: 5530781212759556344
+  - m_Id: 31
+    m_Key: _rewardTitle_TechSelectPack_Company3
+    m_Metadata:
+      m_Items:
+      - rid: 5530781212759556345
+  - m_Id: 32
+    m_Key: _rewardDescription_TechSelectPack_Company3
+    m_Metadata:
+      m_Items:
+      - rid: 5530781212759556346
+  - m_Id: 33
+    m_Key: _rewardTitle_TechSelectPack_Company4
+    m_Metadata:
+      m_Items:
+      - rid: 5530781212759556347
+  - m_Id: 34
+    m_Key: _rewardDescription_TechSelectPack_Company4
+    m_Metadata:
+      m_Items:
+      - rid: 5530781212759556348
+  - m_Id: 35
+    m_Key: _rewardTitle_TechSelectPack_Company5
+    m_Metadata:
+      m_Items:
+      - rid: 5530781212759556349
+  - m_Id: 36
+    m_Key: _rewardDescription_TechSelectPack_Company5
+    m_Metadata:
+      m_Items:
+      - rid: 5530781212759556350
+  - m_Id: 37
+    m_Key: _rewardTitle_TechUpgradePack
+    m_Metadata:
+      m_Items:
+      - rid: 5530781212759556351
+  - m_Id: 38
+    m_Key: _rewardDescription_TechUpgradePack
+    m_Metadata:
+      m_Items:
+      - rid: 5530781212759556352
+  - m_Id: 39
+    m_Key: _rewardTitle_MutantPack
+    m_Metadata:
+      m_Items:
+      - rid: 5530781212759556353
+  - m_Id: 40
+    m_Key: _rewardDescription_MutantPack
+    m_Metadata:
+      m_Items:
+      - rid: 5530781212759556354
+  - m_Id: 41
+    m_Key: _reinforceTitle
+    m_Metadata:
+      m_Items:
+      - rid: 5530781212759556395
+  - m_Id: 42
+    m_Key: _recordTitle
+    m_Metadata:
+      m_Items:
+      - rid: 5530781212759556396
+  - m_Id: 43
+    m_Key: _reinforceDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44
+    m_Key: _recordDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1069601610416128
+    m_Key: _Blade_Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1069693222404096
+    m_Key: _Blade_Instruction
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1069810105073664
+    m_Key: _Rifle_Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1069857056112640
+    m_Key: _Rifle_Instruction
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 5530781209756172512
+  references:
+    version: 2
+    RefIds:
+    - rid: 5530781209756172512
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1762747152942
+    - rid: 5530781212759556111
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: 'Room title used on map and room list. Short label shown on
+          room tiles. Max 20 characters. No trailing punctuation. Tone: neutral and
+          concise.'
+    - rid: 5530781212759556112
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Room description shown in room details panel or tooltip. Explains
+          purpose or tips for the room. Use imperative mood for directives. Max ~120
+          characters. No formatting tags unless documented.
+    - rid: 5530781212759556113
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Room title used on map and list. Keep concise. Max 20 characters.
+    - rid: 5530781212759556114
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Description for a normal combat room. Explain objective succinctly
+          (e.g., defeat enemies). Max ~120 characters. Prefer imperative phrasing.
+    - rid: 5530781212759556115
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Room title for laboratory-type rooms. Short label; max 20
+          characters. Indicate special mechanics if needed.
+    - rid: 5530781212759556116
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Description for laboratory rooms. Mention hazards/special
+          mechanics. Provide usage hints if necessary. Max ~120 characters.
+    - rid: 5530781212759556117
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Room title for arena/colosseum. Short label; max 20 characters.
+          Indicates combat challenge.
+    - rid: 5530781212759556118
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Description for colosseum/arena rooms. Explain challenge type
+          (e.g., consecutive fights) and rewards. Max ~120 characters.
+    - rid: 5530781212759556119
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Room title for shop. Single-word label preferred. Max 12-15
+          characters for UI fit.
+    - rid: 5530781212759556120
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Description for shop rooms. Explain what players can buy or
+          exchange (credits, items). Max ~120 characters. Do not include currency
+          symbol assumptions unless specified.
+    - rid: 5530781212759556121
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Room title for boss encounters. Short label; max 20 characters.
+          Indicate high difficulty.
+    - rid: 5530781212759556122
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Description for boss rooms. Warn players about high difficulty;
+          advise preparation. Max ~120 characters. Use imperative suggestions (prepare,
+          strategize).
+    - rid: 5530781212759556335
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Title for credit currency shown in UI (reward list, popup).
+          Keep short (<=12 chars). Do not include numeric value.
+    - rid: 5530781212759556336
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Description explaining what credits are and how they are used.
+          Keep concise (~120 chars).
+    - rid: 5530781212759556337
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Title for 'Chrome' resource shown in UI. Short label (<=12
+          chars).
+    - rid: 5530781212759556338
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: 'Description for Chrome resource: explain use (e.g., upgrade,
+          crafting). Keep concise (~120 chars).'
+    - rid: 5530781212759556339
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Title for a healing pack/consumable. Single-word or short
+          phrase preferred.
+    - rid: 5530781212759556340
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: 'Description for heal pack: amount or effect summary. Avoid
+          exact numeric formats unless specified; ~120 chars.'
+    - rid: 5530781212759556341
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Title for tech selection pack from Company1. Use company name
+          if fits UI. Keep short.
+    - rid: 5530781212759556342
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: 'Description for this tech select pack: explain that player
+          can choose a tech from the company''s pool. ~120 chars.'
+    - rid: 5530781212759556343
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Title for tech selection pack from Company2. Keep short.
+    - rid: 5530781212759556344
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: 'Description for company2 tech pack: same guidance as other
+          tech select packs.'
+    - rid: 5530781212759556345
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Title for tech selection pack from Company3. Keep short for
+          UI.
+    - rid: 5530781212759556346
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Description for company3 tech pack. Explain selectable nature
+          and hint at unique theme if any.
+    - rid: 5530781212759556347
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Title for tech selection pack from Company4. Short label.
+    - rid: 5530781212759556348
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Description for company4 tech pack. Same pattern as other
+          company packs.
+    - rid: 5530781212759556349
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Title for tech selection pack from Company5. Short UI label.
+    - rid: 5530781212759556350
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Description for company5 tech pack. Keep similar wording to
+          other company tech packs.
+    - rid: 5530781212759556351
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Title for a tech upgrade pack/item used to upgrade existing
+          tech. Short label.
+    - rid: 5530781212759556352
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: 'Description: explains that this pack upgrades a tech or unlocks
+          enhancement options. Keep concise (~120 chars).'
+    - rid: 5530781212759556353
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Title for mutant pack / Mutant-related reward. Short label.
+    - rid: 5530781212759556354
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: 'Description: explains mutant pack contents (e.g., random
+          mutant ability or resource). Keep concise (~120 chars).'
+    - rid: 5530781212759556395
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Title for Reinforce/Upgrade UI or reward menu. Short label
+          shown on buttons/panels. Keep concise (<=15 chars).
+    - rid: 5530781212759556396
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Title for Record/Log/History screens (e.g., play record, achievements).
+          Short label for UI. Keep concise (<=20 chars).

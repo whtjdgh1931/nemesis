@@ -1,0 +1,37 @@
+﻿Key,Id,Korean(ko),English(en)
+_roomTitle_Start,1,회차 시작,Start Run.
+_roomDescription_Start,11,전투를 시작하시겠습니까?,Ready to begin combat?
+_roomTitle_Normal,2,일반 전투 방,Normal Battle Room
+_roomDescription_Normal,12,전투를 치르고 평범한 보상을 획득합니다.,Fight battles and earn common rewards.
+_roomTitle_Lab,3,실험실,Laboratory
+_roomDescription_Lab,13,비밀스러운 기술이 당신을 기다립니다.,Mysterious techniques await you.
+_roomTitle_Colosseum,4,콜로세움,Colosseum
+_roomDescription_Colosseum,14,강력한 적과 전투하고 높은 보상을 획득합니다.,Fight strong enemies to earn greater rewards.
+_roomTitle_Shop,5,상점,Shop
+_roomDescription_Shop,15,크레딧을 사용하여 아이템을 구매하세요!,Spend credits to purchase gear!
+_roomTitle_Boss,6,보스 방,Boss Room
+_roomDescription_Boss,16,층의 우두머리와 조우합니다…,You encounter the floor boss…
+_rewardTitle_Credit,21,크레딧,Credits
+_rewardDescription_Credit,22,상점에서 아이템과 교환할 수 있습니다.,Can be exchanged for items at the shop.
+_rewardTitle_Chrome,23,크롬,Chrome
+_rewardDescription_Chrome,24,영구 장비 강화에 쓰이는 금속더미입니다.,Metal shards for permanently enhancing gear.
+_rewardTitle_HealPack,25,수리 키트,First Aid Kit
+_rewardDescription_HealPack,26,습득 시 50의 체력을 회복합니다.,Restores 50 HP when picked up.
+_rewardTitle_TechSelectPack_Company1,27,비브르모션 기술팩,Vivremotion Tech Pack
+_rewardDescription_TechSelectPack_Company1,28,비브르모션의 기술 중 하나를 습득합니다.,Gain one Vivremotion's ability.
+_rewardTitle_TechSelectPack_Company2,29,파이로하트 기술팩,Pyroheart Tech Pack
+_rewardDescription_TechSelectPack_Company2,30,파이로하트의 기술 중 하나를 습득합니다.,Gain one PyroHeart's ability.
+_rewardTitle_TechSelectPack_Company3,31,G.E.A.R. 기술팩,G.E.A.R. Technology Pack
+_rewardDescription_TechSelectPack_Company3,32,G.E.A.R.의 기술 중 하나를 습득합니다.,Gain one G.E.A.R.'s ability.
+_rewardTitle_TechSelectPack_Company4,33,그리드포지 기술팩,GridForge Tech Pack
+_rewardDescription_TechSelectPack_Company4,34,그리드포지의 기술 중 하나를 습득합니다.,Gain one GridForge's ability.
+_rewardTitle_TechSelectPack_Company5,35,LUX제약 기술팩,LUXPharma Tech Pack
+_rewardDescription_TechSelectPack_Company5,36,LUX제약의 기술 중 하나를 습득합니다.,Gain one LUXPharma’s ability.
+_rewardTitle_TechUpgradePack,37,업그레이드 팩,Upgrade Pack
+_rewardDescription_TechUpgradePack,38,습득한 기술의 성능을 업그레이드 할 수 있습니다.,Use to enhance the power of obtained techniques.
+_rewardTitle_MutantPack,39,돌연변이 정수,Mutant Essence Orb
+_rewardDescription_MutantPack,40,당신을 잠식할 무언가를 받아들입니다…,Take in something that will corrupt you…
+_reinforceTitle,41,강화,Reinforce
+_recordTitle,42,기록,Record
+_reinforceDescription,43,당신의 전투장비를 강화시킵니다.,Applies reinforcement to your combat equipment.
+_recordDescription,44,당신의 명예를 기록합니다.,Records your honor.

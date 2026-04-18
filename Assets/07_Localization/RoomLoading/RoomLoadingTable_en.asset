@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: RoomLoadingTable_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 8037211fea0593542ae12d9e023dc422, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 51
+    m_Localized: 'There are the following room types: Laboratory, Normal Combat Room,
+      Black Market, Colosseum, and Boss Combat Room.'
+    m_Metadata:
+      m_Items:
+      - rid: 5530781231432073408
+  - m_Id: 52
+    m_Localized: "The Mutant Orb is Nebulasa\u2019s secret technology, and it caused
+      the Second Corporation War."
+    m_Metadata:
+      m_Items:
+      - rid: 5530781231432073409
+  - m_Id: 53
+    m_Localized: There are five corporations, and each corporation provides technology
+      with a unique concept.
+    m_Metadata:
+      m_Items:
+      - rid: 5530781231432073410
+  - m_Id: 54
+    m_Localized: Technologies that directly enhance Basic Attack, Dash, Special Attack,
+      or Grenade are mutually exclusive and will be replaced when you acquire another
+      such technology.
+    m_Metadata:
+      m_Items:
+      - rid: 5530781231432073411
+  - m_Id: 55
+    m_Localized: You hate Nebulasa with a burning fury.
+    m_Metadata:
+      m_Items:
+      - rid: 5530781231432073412
+  references:
+    version: 2
+    RefIds:
+    - rid: 5530781231432073408
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Shown randomly during loading; briefly describe room types.
+          Keep within ~120 chars.
+    - rid: 5530781231432073409
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Lore hint for loading screen. Keep concise and non-spoiling.
+    - rid: 5530781231432073410
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Gameplay/system tip for loading screen; keep concise.
+    - rid: 5530781231432073411
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: 'Gameplay tip: explain exclusivity of certain techs; keep
+          concise.'
+    - rid: 5530781231432073412
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Flavor text for loading screen; short and atmospheric.

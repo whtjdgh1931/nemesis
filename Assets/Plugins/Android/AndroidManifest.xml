@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          xmlns:tools="http://schemas.android.com/tools"
+          package="com.Avengers.projectNemesis">
+
+		<application>
+				<!--Unity의 기본 액티비티를 앱의 '정문(LAUNCHER)'으로 명확하게 지정합니다.
+      이것으로 앱 아이콘이 화면에 나타나게 됩니다.
+    -->
+				<activity android:name="com.unity3d.player.appui.AppUIGameActivity"
+									android:exported="true"
+									tools:node="merge"
+									android:theme="@style/BaseUnityGameActivityTheme">
+						<intent-filter>
+								<action android:name="android.intent.action.MAIN" />
+								<category android:name="android.intent.category.LAUNCHER" />
+						</intent-filter>
+						<meta-data android:name="android.app.lib_name" android:value="game" />
+				</activity>
+		</application>
+
+		<!-- Google 광고 ID 권한 제거 -->
+		<uses-permission android:name="com.google.android.gms.permission.AD_ID" tools:node="remove" />
+
+		<!-- 기존에 있던 권한들을 여기에 추가합니다. -->
+		<uses-permission android:name="android.permission.VIBRATE" />
+		<uses-permission android:name="android.permission.INTERNET" />
+</manifest>

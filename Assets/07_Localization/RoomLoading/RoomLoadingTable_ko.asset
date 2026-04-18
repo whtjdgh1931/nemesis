@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: RoomLoadingTable_ko
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: ko
+  m_SharedData: {fileID: 11400000, guid: 8037211fea0593542ae12d9e023dc422, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 51
+    m_Localized: "\uBC29\uC758 \uC885\uB958\uC5D0\uB294 \uC2E4\uD5D8\uC2E4, \uC77C\uBC18
+      \uC804\uD22C\uBC29, \uC554\uC2DC\uC7A5, \uCF5C\uB85C\uC138\uC6C0, \uBCF4\uC2A4
+      \uC804\uD22C\uBC29\uC774 \uC788\uC2B5\uB2C8\uB2E4."
+    m_Metadata:
+      m_Items:
+      - rid: 5530781231432073398
+  - m_Id: 52
+    m_Localized: "\uB3CC\uC5F0\uBCC0\uC774 \uC815\uC218\uB294 \uB124\uBDF8\uB77C\uC0AC\uC758
+      \uBE44\uBC00 \uAE30\uC220\uB85C, 2\uCC28 \uAE30\uC5C5\uC804\uC7C1\uC744 \uC77C\uC73C\uD0A4\uAC8C
+      \uB41C \uC6D0\uC778\uC785\uB2C8\uB2E4."
+    m_Metadata:
+      m_Items:
+      - rid: 5530781231432073399
+  - m_Id: 53
+    m_Localized: "\uAE30\uC5C5\uC740 5\uAC1C\uAC00 \uC874\uC7AC\uD558\uACE0, \uAE30\uC5C5\uB9C8\uB2E4
+      \uACE0\uC720\uD55C \uCEE8\uC149\uC758 \uAE30\uC220\uC744 \uC81C\uACF5\uD569\uB2C8\uB2E4."
+    m_Metadata:
+      m_Items:
+      - rid: 5530781231432073400
+  - m_Id: 54
+    m_Localized: "\uAE30\uBCF8\uACF5\uACA9, \uB300\uC26C, \uD2B9\uC218\uACF5\uACA9,
+      \uC720\uD0C4\uC744 \uC9C1\uC811\uC801\uC73C\uB85C \uAC15\uD654\uD558\uB294
+      \uAE30\uC220\uC740 \uB2E4\uB978 \uAE30\uC220 \uC2B5\uB4DD\uC2DC \uB300\uCCB4\uB429\uB2C8\uB2E4."
+    m_Metadata:
+      m_Items:
+      - rid: 5530781231432073401
+  - m_Id: 55
+    m_Localized: "\uC8FC\uC778\uACF5\uC740 \uB124\uBDF8\uB77C\uC0AC\uC5D0 \uB9F9\uB82C\uD55C
+      \uC99D\uC624\uB97C \uAC00\uC9C0\uACE0 \uC788\uC2B5\uB2C8\uB2E4."
+    m_Metadata:
+      m_Items:
+      - rid: 5530781231432073402
+  references:
+    version: 2
+    RefIds:
+    - rid: 5530781231432073398
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "\uB9F5 \uB85C\uB529 \uC911 \uB79C\uB364\uC73C\uB85C \uD45C\uC2DC\uB429\uB2C8\uB2E4.
+          UI \uAE38\uC774\uB97C \uACE0\uB824\uD558\uC5EC 120\uC790 \uC774\uB0B4\uB85C
+          \uC791\uC131\uD558\uC138\uC694."
+    - rid: 5530781231432073399
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "\uBC30\uACBD \uC124\uC815\uC744 \uAC04\uB2E8\uD788 \uC124\uBA85\uD558\uB294
+          \uBB38\uAD6C\uC785\uB2C8\uB2E4. \uC2A4\uD3EC\uC77C\uB7EC\uC5D0 \uC8FC\uC758\uD558\uACE0
+          120\uC790 \uC774\uB0B4\uB85C \uC791\uC131\uD558\uC138\uC694."
+    - rid: 5530781231432073400
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "\uC2DC\uC2A4\uD15C/\uC124\uC815 \uC815\uBCF4\uB97C \uAC04\uB2E8\uD788
+          \uC548\uB0B4\uD558\uC138\uC694. \uBAA8\uBC14\uC77C \uD45C\uC2DC \uAE38\uC774(\uC57D
+          120\uC790) \uACE0\uB824."
+    - rid: 5530781231432073401
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "\uAC8C\uC784\uD50C\uB808\uC774 \uD301\uC785\uB2C8\uB2E4.
+          \uD2B9\uC815 \uAE30\uC220\uC758 \uC0C1\uD638 \uBC30\uD0C0\uC131 \uB4F1
+          \uC911\uC694 \uC815\uBCF4\uB97C \uAC04\uB2E8\uD788 \uC548\uB0B4\uD558\uC138\uC694.
+          \uBAA8\uBC14\uC77C \uD45C\uC2DC \uAE38\uC774 \uACE0\uB824."
+    - rid: 5530781231432073402
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "\uD50C\uB808\uC774\uC5B4\uC5D0\uAC8C \uBD84\uC704\uAE30\uB97C
+          \uC804\uB2EC\uD558\uB294 \uBB38\uAD6C\uC785\uB2C8\uB2E4. \uC2A4\uD1A0\uB9AC
+          \uD1A4\uC744 \uACE0\uB824\uD574 \uC791\uC131\uD558\uC138\uC694."

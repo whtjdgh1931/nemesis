@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/JMO Assets/Cartoon FX Remaster.meta
+guid: 5ce7d89a3bb2b644083cf98f3c1a5d45
+folderAsset: yes
+DefaultImporter:
+  externalObjects: {}
+========
+guid: b3339e63700e41345886e04dc0ee67c8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+>>>>>>>> origin/feature/player:Assets/05_Materials/SkillObject/Horizon.mat.meta
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

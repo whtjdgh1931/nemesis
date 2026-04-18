@@ -1,0 +1,11 @@
+﻿Key,Id,Korean(ko),English(en)
+_tutorial_NormalAttack_PC,61,마우스 왼쪽 버튼을 눌러 일반 공격을 실행하세요.,Press the left mouse button to perform a Normal attack.
+_tutorial_NormalAttack_Mobile,62,공격버튼을 눌러 일반 공격을 실행하세요.,Press the Attack button to perform a Normal attack.
+_tutorial_GrenadeAttack_PC,63,마우스 오른쪽 버튼을 눌러 유탄을 발사하세요.,Press the right mouse button to launch a grenade.
+_tutorial_GrenadeAttack_Mobile,64,유탄버튼을 눌러 유탄을 발사하세요.,Press the Grenade button to launch a grenade.
+_tutorial_SpecialAttack_PC,65,Q를 눌러 특수공격을 실행하세요.,Press Q to perform a Special attack.
+_tutorial_SpecialAttack_Mobile,66,특수공격버튼을 눌러 특수공격을 하세요.,Press the Special attack button to perform a Special attack.
+_tutorial_Dash_PC,67,Space 키를 눌러 대쉬를 발동하세요.,Press the Space key to activate Dash.
+_tutorial_Dash_Mobile,68,대쉬 버튼을 눌러 대쉬를 발동하세요.,Press the Dash button to activate Dash.
+_tutorial_Interact_PC,69,물체에 가까이 가서 E를 눌러 상호작용 하세요,Approach an object and press E to interact with it.
+_tutorial_Interact_Mobile,70,물체에 가까이 가서 상호작용 버튼을 눌러 상호작용 하세요,Approach an object and press the interact button to interact with it.
